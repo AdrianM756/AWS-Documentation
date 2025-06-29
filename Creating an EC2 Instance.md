@@ -1,3 +1,5 @@
+![image](https://community.aws/_next/image?url=https%3A%2F%2Fassets.community.aws%2Fa%2F2YnihCpaNZkmFVuxyHKWrcxDSMT.png%3FimgSize%3D919x516&w=1920&q=75)
+
 ## EC2 Instance
 
 [EC2 Instance](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/concepts.html) is a virtual server in the AWS Cloud. When you start an EC2 instance, the instance type that you specify will determine the hardware available to your instance. Each instance offers a different types and balance of compute, memory, network, and storage resources depending on your needs.
