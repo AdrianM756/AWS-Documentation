@@ -1,4 +1,6 @@
-![image](https://community.aws/_next/image?url=https%3A%2F%2Fassets.community.aws%2Fa%2F2YnihCpaNZkmFVuxyHKWrcxDSMT.png%3FimgSize%3D919x516&w=1920&q=75)
+<p align="center">
+  <img src="https://media2.dev.to/dynamic/image/width=1280,height=720,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fwsrrq6s1f12v8jhe2ubj.png"/>
+</p>
 
 ## EC2 Instance
 
