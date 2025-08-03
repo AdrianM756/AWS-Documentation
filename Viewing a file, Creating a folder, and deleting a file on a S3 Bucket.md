@@ -2,7 +2,7 @@
 
 The're are multiple ways to access files on a SS3 Bucket. Here are some of the ways to do it.
 
-## Objeet URL
+## Object URL
 
 Click one of your files then navigate to the ```Properties``` tab. and click the link under the ```Block URL```.
 <br>
