@@ -1,4 +1,4 @@
-## Amazonn VPC
+## Amazon VPC
 
 [Amazon VPC(Virtual Private Cloud)](https://docs.aws.amazon.com/vpc/latest/userguide/what-is-amazon-vpc.html) is a service from AWS that lets you create a **logically isolated network** within the cloud. It allows us to isolate resources from other resources and gives full control of networking in the cloud.
 <br>
